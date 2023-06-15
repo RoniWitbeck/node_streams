@@ -13,4 +13,5 @@ async function fetchPokemon() {
   writeStream.write(buffer);
 }
 
+
 fetchPokemon();
